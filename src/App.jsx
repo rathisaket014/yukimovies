@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div className='text-4xl font-semibold text-center text-blue-500'>
+      I am just loving ubuntu
+    </div>
   )
 }
 
